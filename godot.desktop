@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Godot
+GenericName=Godot
+Comment=Build games in the FOSS game engine Godot
+Keywords=game;development;godot
+Exec=~/.godot
+Terminal=false
+Type=Application
+StartupWMClass=Godot
+Categories=Development;
